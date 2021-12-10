@@ -1,0 +1,3 @@
+date calculate(auto change date and hours)
+background image must be change
+snow fall
